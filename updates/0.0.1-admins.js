@@ -9,8 +9,14 @@
 
 exports.create = {
 	Y: [
-		{ 'name.first': 'Admin', 'name.last': 'User', 'email': 'mason.xiong@yahoo.com', 'password': '123', 'isAdmin': true },
-	],
+		{
+			'name.first': 'Admin',
+			'name.last': 'User',
+			email: 'test@test.com',
+			password: '123',
+			isAdmin: true
+		}
+	]
 };
 
 /*
